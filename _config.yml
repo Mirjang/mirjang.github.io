@@ -1,25 +1,24 @@
 title: Patrick Radner
 description: > # this means to ignore newlines until "baseurl:"
-  [TBD]
+  Computer scientist and games engineer intrested in neural rendering, deep learning, GANs, RL.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "mirjang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Patrick Radner # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: face.png # add your photo
 about-author: Computer scientist and games engineer intrested in neural rendering, deep learning, GANs, RL.
  # add description
-social-twitter: twitter.com/patrick_radner
-social-facebook: # add your Facebook handle
-social-github: github.com/Mirjang
-social-linkedin: www.linkedin.com/in/patrick-radner-9179721a7
-social-email: mailto:radner.patrick@gmail.com
+social-twitter: patrick_radner
+social-github: mirjang
+social-linkedin: patrick-radner-9179721a7
+social-email: radner.patrick@gmail.com
 
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Patrick Radner # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
