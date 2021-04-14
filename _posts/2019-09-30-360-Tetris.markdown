@@ -3,7 +3,7 @@ layout: post
 title: "360 Tetris"
 date: 2019-09-30 13:32:20 +0300
 description: VR tetris game used to gather training data for research project. # Add post description (optional)
-img: tetris/eyes.png  # Add image post (optional)
+img: tetris/eyesview.png  # Add image post (optional)
 tags: [Virtual Reality, Games, Gamification]
 ---
 
@@ -13,8 +13,8 @@ The objective of this project is to collect movement data from a special control
 
 
 ![Close-up view]({{site.baseurl}}/assets/img/tetris/close.png) <br><br>
-![Editor View]({{site.baseurl}}/assets/img/tetris/bird.png) <br><br>
-![VR View]({{site.baseurl}}/assets/img/tetris/eyes.png) <br><br>
+![Editor View]({{site.baseurl}}/assets/img/tetris/birdview.png) <br><br>
+![VR View]({{site.baseurl}}/assets/img/tetris/eyesview.png) <br><br>
 
 
 Team Members: Patrick Radner, [Md Jamiur Rahman](https://www.linkedin.com/in/jamiurrahman/?originalSubdomain=de), [Ahnaf Munir](https://www.linkedin.com/in/ahnafmunir/?originalSubdomain=de)<br>

@@ -3,7 +3,7 @@ layout: post
 title: "Level of Detail Generation for Point Clouds"
 date: 2018-06-15 13:32:20 +0300
 description: Bachelors thesis exploring methods for LoD generation for point clouds # Add post description (optional)
-img: ba/xyzrgb_dragon_lod.png # Add image post (optional)
+img: ba/xyzrgb_dragon.png # Add image post (optional)
 tags: [Computer Graphics, Point Clouds, DirectX]
 ---
 
