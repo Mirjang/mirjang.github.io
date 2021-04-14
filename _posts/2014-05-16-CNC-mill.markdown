@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Engineer Project: CNC Circuit Board Mill"
+date: 2016-05-16 13:32:20 +0300
+description: New control software for a CNC circuit board mill. The legacy software had to be run on MS-DOS. # Add post description (optional)
+img: fraese/fraese.png # Add image post (optional)
+tags: [Legacy Software, Electrical Engineering]
+---
+
+In our final year at HTL Wels (IT Branch) our team developed new control software for a Isel IMC4 SPS circuit board mill. The existing software ran on an old MS-DOS computer. The new software was written in C++ and designed to run on modern Windows systems. We also created a GUI that could display design files and run them on the mill. The comparison between old and new UI is shown below. The instructuin manual for the mill was incomplete. In order to determine the communication protocoll between the controlling pc and the mill a custom wire tapping device for the serial interface (RS323) was manufactured.
+
+
+<div style="text-align:center">
+<img src="/assets/img/fraese/old_ui.png" width="350" height="350"/>
+<img src="/assets/img/fraese/new_ui.png" width="350" height="350"/>
+</div>
+
+
+Team Members: Patrick Radner, Stefan Schwaighofer, Bernhard Zeilinger, Florian Zopf <br>
+Instructor: Prof. Mag. Dipl-Ing. Franz Reitinger

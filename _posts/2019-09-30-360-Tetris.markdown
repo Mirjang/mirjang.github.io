@@ -1,0 +1,25 @@
+---
+layout: post
+title: "360 Tetris"
+date: 2019-09-30 13:32:20 +0300
+description: VR tetris game used to gather training data for research project. # Add post description (optional)
+img: tetris/eyes.png  # Add image post (optional)
+tags: [Virtual Reality, Games, Gamification]
+---
+
+360-Tetris was developed for the Games Masters Practical course at TUM and implements the classical game of Tetris using virtual reality. Tetris bricks are spawned in the surrounding area of the player and the player interacts with the bricks using a controller. The goal of the game is to complete full lines of bricks and clear them. Four walls will surround the user and user has the option to play all four walls or only one.
+
+The objective of this project is to collect movement data from a special controller in order to train a machine learning system. The controller is fitted with an [ART](https://ar-tracking.com/en) marker and several IMUs. The ART coordinates had to be mapped to the coordinate system of the HMD (HTC Vive). The IMUs and ART tracking data combined form the desired training data.
+
+
+![Close-up view]({{site.baseurl}}/assets/img/tetris/close.png) <br><br>
+![Editor View]({{site.baseurl}}/assets/img/tetris/bird.png) <br><br>
+![VR View]({{site.baseurl}}/assets/img/tetris/eyes.png) <br><br>
+
+
+Team Members: Patrick Radner, [Md Jamiur Rahman](https://www.linkedin.com/in/jamiurrahman/?originalSubdomain=de), [Ahnaf Munir](https://www.linkedin.com/in/ahnafmunir/?originalSubdomain=de)<br>
+Supervisor: [Adnane Jadid](http://campar.in.tum.de/Main/AdnaneJadid)<br>
+Director: [Prof. Gudrun Klinker (Ph.D.)](http://campar.in.tum.de/Main/GudrunKlinker)<br>
+
+[Project Page](https://wiki.tum.de/display/infar/%5B19SS+-+MP%5D+360-Tetris)
+

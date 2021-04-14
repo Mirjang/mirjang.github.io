@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Social Gaming: TTT"
+date: 2017-07-31 13:32:20 +0300
+description: Mobile social game using location data. The players have to find a traitor among them. # Add post description (optional)
+#img: soga/screen.jpg # Add image post (optional)
+tags: [Games, Social Gaming, Mobile Gaming]
+---
+
+In the fourth semestor of my games bachelor we created a mobile game that focused on social interaction between players. The game was based on the at the time popular game Trouble in Terrorist Town. For each round some of the players were chosen to be traitors. The traitors had to plant a bomb at a certain real world location and ensure it detonates. The "innocent" players had to make sure that didn´t happen and figure out who the traitors were by finding clues at other real-world locations that revealed Facebook posts or images of the traitor(s). The players positions were tracked using GPS and a map of points of interests was shown on their phone. 
+
+Team Members: Patrick Radner, Florian Zopf

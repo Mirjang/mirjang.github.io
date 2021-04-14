@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Numerical Quadrature in ARM assembly"
+date: 2016-05-17 13:32:20 +0300
+description: Numerical Quadrature using the Newton-Cotes formulas. # Add post description (optional)
+#img: imge/screen.jpg # Add image post (optional)
+tags: [Numerical Programming, Systems Programmin, ARM, Assembly]
+---
+
+We simplified the [Newton-Cotes](https://en.wikipedia.org/wiki/Newton%E2%80%93Cotes_formulas) formulas for n=1,2 and implemented them in ARM assembly. The implementation was compared against different levels of compiler optimization. For 1 million runs our implementation was only 8ms slower than the C implementation using the highest compiler optimization.
+
+Team Members: Patrick Radner, Jennifer Sorensen, Florian Zopf

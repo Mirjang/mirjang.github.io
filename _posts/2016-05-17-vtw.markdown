@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Virtual Training Worls: TechNick"
+date: 2016-05-17 13:32:20 +0300
+description: A game to train retail workers on the existing sortiment. # Add post description (optional)
+#img: imge/screen.jpg # Add image post (optional)
+tags: [Games, Custom Hardware, Gesture Recognition]
+---
+
+We developed a [Quartets](https://en.wikipedia.org/wiki/Quartets_(card_game)) game for android phones which allowed users to collect trading cards of items in the store and battle their co-workers in various categories (such as PCs, smartphones, etc.). A highscore list would keep track of the employees and provide additional motivation. By plaing the game retail workers would learn the properties of different products aswell as advantages and disadvantages. This would allow them to provide higher quality customer service. 
